@@ -13,7 +13,7 @@ setup(
     description='A package for Black-Scholes option pricing and implied volatility calculation(European Options only)',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/hoadley',  # Replace with your actual URL
+    url='https://github.com/iam7pY/hoadley',  # Replace with your actual URL
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
